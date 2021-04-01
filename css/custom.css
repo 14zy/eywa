@@ -1,0 +1,21 @@
+@media screen and (max-width: 640px) {
+    .t218__descrfield {
+    padding-top: 0px;}
+    .t218__textfield {
+    padding-bottom: 0px;
+    padding-top: 10px;
+    }
+    .t177 .t-container {
+    display: flex;
+    flex-flow: wrap;
+    }.t177 .t-col_5 {
+    order: 2;
+    }
+    }
+    #rec49227219 {
+        margin-bottom:-100000px;
+    }
+    #rec142616079 {
+        margin-bottom:-100000px;
+    }
+    

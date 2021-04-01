@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /page2561170.html
+Disallow: /234324234234242
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: http://eywa.io/sitemap.xml
+Host: eywa.io
