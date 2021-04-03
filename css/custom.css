@@ -21,3 +21,9 @@
     .t533__descr {
       text-align: left!important;
     }
+    .t533__textwrapper {
+      background-color: black;
+    }
+    .t533__textwrapper div {
+      color: white!important;
+    }
