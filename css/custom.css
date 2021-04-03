@@ -24,6 +24,6 @@
     .t533__textwrapper {
       background-color: black;
     }
-    .t533__textwrapper div {
+    .t533__descr, .t533__title {
       color: white!important;
     }
