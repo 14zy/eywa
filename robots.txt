@@ -7,5 +7,5 @@ Disallow: /tilda/click*
 Disallow: /tilda/scroll*
 Disallow: /tilda/popup*
 Disallow:
-Sitemap: http://eywa.io/sitemap.xml
-Host: eywa.io
+Sitemap: http://eywakitchen.ru/sitemap.xml
+Host: eywakitchen.ru
