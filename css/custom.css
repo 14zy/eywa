@@ -18,4 +18,12 @@
     #rec142616079 {
         margin-bottom:-100000px;
     }
-    
+    .t533__descr {
+      text-align: left!important;
+    }
+    .t533__textwrapper {
+      background-color: black;
+    }
+    .t533__descr, .t533__title {
+      color: white!important;
+    }
